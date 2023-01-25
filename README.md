@@ -15,4 +15,4 @@ description : In this project , YOLOv5 model to trained to identify safety gear 
 
 Dataset link : [COVID Face Mask Detection Dataset | Kaggle](https://www.kaggle.com/datasets/prithwirajmitra/covid-face-mask-detection-dataset)
 
-Description : this project trains a model to detect difference betwwen images of people wearing a facemask and people without facemask.
+Description : this project trains a model to detect difference between images of people wearing a facemask and people without facemask.
